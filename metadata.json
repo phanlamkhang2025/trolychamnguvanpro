@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Chấm Văn",
+  "description": "Trợ lý giúp giáo viên THPT chấm bài Ngữ văn: tải bài làm lên, AI đối chiếu đáp án và đề xuất điểm, giáo viên duyệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
